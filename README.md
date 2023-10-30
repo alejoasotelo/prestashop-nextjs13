@@ -13,6 +13,7 @@ Here is a preview of the project at current status
 ```
 PS_URI=http://www.example.it
 PS_API_KEY=THEPRESTASHOPWEBSERVICEKEY
+IMAGES_DOMAIN=http://www.example.it
 ```
 
 2. Install dependencies and start your server:

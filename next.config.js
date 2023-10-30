@@ -2,7 +2,7 @@
 const nextConfig = {
   compress: true,
   images: {
-    domains: ["www.jsdev.it"],
+    domains: ["www.jsdev.it", process.env.IMAGES_DOMAIN],
   },
 };
 
